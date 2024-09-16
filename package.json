@@ -1,5 +1,6 @@
 {
   "name": "restaurent-app",
+  "homepage": "https://tanel5.github.io/restaurent-model-UI",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
